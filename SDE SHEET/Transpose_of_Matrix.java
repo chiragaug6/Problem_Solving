@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+//if we given condition here, that matrix is always n*n order then we dont require extra space
 public class Transpose_of_Matrix {
     public static void main(String[] args) {
         int[][] matrix = {
