@@ -23,8 +23,4 @@ public class Transpose_of_Matrix {
             System.out.println(Arrays.toString(arr));
         }
     }
-
-
-
-
 }
